@@ -1,0 +1,4 @@
+m
+=
+
+MDM Connectivity Test
